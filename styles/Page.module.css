@@ -1,0 +1,39 @@
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .title1 {
+    color: white;
+    padding-top: 28px;
+    font-size: 28px;
+  }
+
+  .title2 {
+color: aqua;
+padding-top: 18px;
+font-size: 24px;
+  }
+  
+  .button1 {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 18px;
+    margin: 10px;
+    color: black;
+    background-color: grey;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .a1 {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
